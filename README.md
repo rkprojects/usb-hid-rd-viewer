@@ -15,11 +15,13 @@ $ git clone https://github.com/rkprojects/usb-hid-rd-viewer.git
 
 ## Run
 $ cd usb-hid-rd-viewer  
-$ sudo python3 rd_viewer.py
 
 For command line options:  
 $ python3 rd_viewer.py -h
 
+Sample run output:
+
+![Sample run screenshot](https://github.com/rkprojects/usb-hid-rd-viewer/blob/master/screenshot.jpg)
 
 ## License
 
