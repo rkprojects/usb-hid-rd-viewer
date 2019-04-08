@@ -6,7 +6,7 @@ Tested on Ubuntu 16.04, however it should work wherever PyUSB works.
 
 ## Software Requirements
 
-* [PyUSB](https://github.com/pyusb/pyusb/blob/master/docs/tutorial.rst)
+* [PyUSB version 1.0 or greater](https://github.com/pyusb/pyusb/blob/master/docs/tutorial.rst)
 * Python version 3.5 or greater.
 
 ## Get Source Code
